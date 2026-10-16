@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1 align="center">Hi, I'm Dominique 👋</h1>
-<h3 align="center">Digital Systems Security & Cyber Security Student · Aspiring Security Engineer</h3>
+<h3 align="center">Digital Systems Security & Cyber Security Student · Aspiring Software Developer & Cyber Security Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -52,24 +52,3 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 How to Reach Me
-
-Just drop me a request and we can start talking from there! 💬
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00ff9c&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
